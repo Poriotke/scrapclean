@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+aiofiles
+apscheduler
+python-dotenv
+
