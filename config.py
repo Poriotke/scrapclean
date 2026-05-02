@@ -1,9 +1,10 @@
 # config.py
-API_ID = "38807471" 
-API_HASH = "9bbfb9efe1a47596cf7f1b20017f5dc6" 
+# Pyrogram setup
+API_ID = "5541778617" 
+API_HASH = "4fa9a7becae988952871a24facfac" 
 BOT_TOKEN = "8660856028:AAGi5lZxuV_x3QhqZ7GDIRRNuZDPLTIrtOU" 
 
-# Admin ID updated to 5541778617
+# Admin IDs updated as requested
 ADMIN_IDS = [5541778617]
 
 DEFAULT_LIMIT = 10000
