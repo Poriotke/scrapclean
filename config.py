@@ -1,6 +1,6 @@
 # config.py
 # Pyrogram setup
-API_ID = "5541778617" 
+API_ID = "38807471" 
 API_HASH = "4fa9a7becae988952871a24facfac" 
 BOT_TOKEN = "8660856028:AAGi5lZxuV_x3QhqZ7GDIRRNuZDPLTIrtOU" 
 
